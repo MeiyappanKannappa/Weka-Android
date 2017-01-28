@@ -1,0 +1,1 @@
+"C:\Program Files\Java\jdk1.8.0_91\jre\..\bin\javadoc.exe" -J-Xmx1000m -J-Dhttp.proxySet=true -J-Dhttp.proxyHost=19.12.1.40 -J-Dhttp.proxyPort=83 @options

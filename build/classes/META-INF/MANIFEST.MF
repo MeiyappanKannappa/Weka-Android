@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: KMEIYAP1
+Build-Jdk: 1.8.0_121
+Main-Class: weka.gui.GUIChooser
+Created-By: Maven Integration for Eclipse
+
